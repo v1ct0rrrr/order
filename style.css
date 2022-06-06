@@ -10,7 +10,7 @@
 
 body
 {
-    background-image: url(./images/pattern-background-desktop.svg);
+    background-image: url(pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-size: 100% 400px;
     background-color: hsl(225, 100%, 94%);
@@ -147,7 +147,7 @@ main button:hover
 @media screen and (max-width: 650px) {
     body
     {
-        background: url('../images/pattern-background-mobile.svg');
+        background: url('pattern-background-mobile.svg');
         background-size: 100%;
         background-repeat: no-repeat;
         background-color: hsl(225, 100%, 94%);
